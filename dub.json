@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"osmoliankin"
+	],
+	"copyright": "Copyright © 2024, osmoliankin",
+	"dependencies": {
+		"bindbc-sfml": "~>1.1.0"
+	},
+	"versions": [
+		"SFML_250",
+		"SFML_Graphics"
+	],
+	"libs": ["csfml-graphics"],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "cpu_shadertoy"
+}

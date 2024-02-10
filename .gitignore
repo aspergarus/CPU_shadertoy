@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/cpu_shadertoy
+cpu_shadertoy.so
+cpu_shadertoy.dylib
+cpu_shadertoy.dll
+cpu_shadertoy.a
+cpu_shadertoy.lib
+cpu_shadertoy-test-*
+*.exe
+*.o
+*.obj
+*.lst
